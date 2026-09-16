@@ -8,8 +8,8 @@ Documentation demonstrating experience and efficiency
 * XDR (Extended Detection and Response): Unifies data streams across endpoints, networks, and cloud environments for holistic threat detection.
   
 > [!NOTE]
-> [SPLUNK](https://www.splunk.com/en_us/training.html)  [Sigma](https://sigmahq.io)
-> [Security Onion](https://securityonionsolutions.com) [OpenSearch](https://opensearch.org) [Wazuh](https://wazuh.com/install/)
+> [SPLUNK](https://www.splunk.com/en_us/training.html) | [Sigma](https://sigmahq.io) |
+> [Security Onion](https://securityonionsolutions.com) | [OpenSearch](https://opensearch.org) | [Wazuh](https://wazuh.com/install/)
 
 ## Network & Protocol Analysis Tools
 * Protocol Analyzers / Packet Sniffers: Intercept and log network traffic for deep-packet inspection (e.g., Wireshark).
