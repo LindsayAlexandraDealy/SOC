@@ -15,11 +15,10 @@ Documentation demonstrating experience and efficiency
 * Protocol Analyzers / Packet Sniffers: Intercept and log network traffic for deep-packet inspection (e.g., Wireshark).
 * NDR (Network Detection and Response): Continuously monitors network traffic to detect and mitigate behavioral anomalies.
 * IDS/IPS (Intrusion Detection/Prevention Systems): Monitors network traffic for malicious signatures and blocks them.
-Zeek https://zeek.org/get-zeek/
-WireShark https://www.wireshark.org
-CISCO Packet Tracer https://www.netacad.com
-Suricata https://docs.suricata.io/en/suricata-8.0.7/quickstart.html
-pfSense https://pfsense.org/getting-started/
+
+> [!NOTE]
+> [Zeek](https://zeek.org/get-zeek/) | [WireShark](https://www.wireshark.org) | [CISCO Packet Tracer](https://www.netacad.com)
+> [Suricata](https://docs.suricata.io/en/suricata-8.0.7/quickstart.html) | [pfSense](https://pfsense.org/getting-started/)
 
 
 ## Endpoint & Asset Monitoring
