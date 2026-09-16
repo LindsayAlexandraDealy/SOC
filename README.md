@@ -24,6 +24,7 @@ Documentation demonstrating experience and efficiency
 ## Endpoint & Asset Monitoring
 * EDR (Endpoint Detection and Response): Focuses specifically on monitoring and securing end-user devices like laptops and servers.
 * UEM (Unified Endpoint Management): Secures and controls desktop computers, laptops, smartphones, and tablets from a single console.
-Sysmon https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
-Ansible https://docs.ansible.com/projects/ansible/latest/getting_started/introduction.html
-SentinelOne
+
+> [!NOTE]
+> [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) | 
+> [Ansible](https://docs.ansible.com/projects/ansible/latest/getting_started/introduction.html)
