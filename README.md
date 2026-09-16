@@ -6,17 +6,14 @@ Documentation demonstrating experience and efficiency
 * SIEM (Security Information and Event Management): Centralizes and analyzes log data from across the network to detect threats.
 * SOAR (Security Orchestration, Automation, and Response): Integrates different security tools and automates repetitive incident response tasks.
 * XDR (Extended Detection and Response): Unifies data streams across endpoints, networks, and cloud environments for holistic threat detection.
-  
-'''
+
+```
 [SPLUNK]([url](https://www.splunk.com/en_us/training.html)) 
-
-https://www.splunk.com/en_us/training.html
-
-[Sigma] (https://sigmahq.io)
-[Security Onion] (https://securityonionsolutions.com)
-[OpenSearch] (https://opensearch.org)
-[Wazuh] (https://wazuh.com/install/)
-'''
+[Sigma]([url](https://sigmahq.io))
+[Security Onion]([url](https://securityonionsolutions.com))
+[OpenSearch]([url](https://opensearch.org))
+[Wazuh]([url](https://wazuh.com/install/))
+```
 
 ## Network & Protocol Analysis Tools
 * Protocol Analyzers / Packet Sniffers: Intercept and log network traffic for deep-packet inspection (e.g., Wireshark).
