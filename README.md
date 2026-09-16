@@ -8,7 +8,10 @@ Documentation demonstrating experience and efficiency
 * XDR (Extended Detection and Response): Unifies data streams across endpoints, networks, and cloud environments for holistic threat detection.
   
 '''
-[SPLUNK] (https://www.splunk.com/en_us/training.html)
+[SPLUNK]([url](https://www.splunk.com/en_us/training.html)) 
+
+https://www.splunk.com/en_us/training.html
+
 [Sigma] (https://sigmahq.io)
 [Security Onion] (https://securityonionsolutions.com)
 [OpenSearch] (https://opensearch.org)
