@@ -7,13 +7,12 @@ Documentation demonstrating experience and efficiency
 * SOAR (Security Orchestration, Automation, and Response): Integrates different security tools and automates repetitive incident response tasks.
 * XDR (Extended Detection and Response): Unifies data streams across endpoints, networks, and cloud environments for holistic threat detection.
 
-```
 [SPLUNK](https://www.splunk.com/en_us/training.html)
 [Sigma]([url](https://sigmahq.io))
 [Security Onion]([url](https://securityonionsolutions.com))
 [OpenSearch]([url](https://opensearch.org))
 [Wazuh]([url](https://wazuh.com/install/))
-```
+
 
 ## Network & Protocol Analysis Tools
 * Protocol Analyzers / Packet Sniffers: Intercept and log network traffic for deep-packet inspection (e.g., Wireshark).
